@@ -6,6 +6,7 @@ int main() {
     for(i = 1; i <= a; i++) {
         factorial = factorial*i;
     }
-    printf("the factorial of %d is %d", a, factorial);
+    printf("the f
+        actorial of %d is %d", a, factorial);
     return 0;
 }
